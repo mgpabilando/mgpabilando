@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgpabilando
 - 👀 I’m interested in learning many things such as drawing.
-- 🌱 I’m currently learning how to use overleaf or LATEX.
+- 🌱 I’m currently learning Web Development
 
 
 <!---
